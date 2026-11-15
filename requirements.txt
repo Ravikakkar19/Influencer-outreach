@@ -1,0 +1,9 @@
+google-api-python-client
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+anthropic
+python-dotenv
+ipykernel
